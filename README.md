@@ -1,2 +1,2 @@
 # Meu-primeiro-repositorio
-Primeiro repositorio do DIO
+Primeiro repositorio  para arquivar e organizar os meus estudos na área de tecnologia
